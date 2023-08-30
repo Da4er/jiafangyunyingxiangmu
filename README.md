@@ -20,7 +20,7 @@
 | OpenWAF | https://github.com/titansec/OpenWAF | 基于openresty的Web安全防护系统。 |  2021/03 |
 | 长亭WAF社区版 | https://waf-ce.chaitin.cn/ | 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 |   |
 | httpwaf | https://github.com/httpwaf/httpwaf2.0 | httpwaf是一款永久免费的web应用防火墙，是最好用的waf。 | 2022/01  |
-|  | https://www.bt.cn/bbs/thread-73847-1-1.html<br />https://www.bt.cn/bbs/thread-13647-1-1.html |  |   |
+| 宝塔apache/nginx WAF | https://www.bt.cn/bbs/thread-73847-1-1.html<br />https://www.bt.cn/bbs/thread-13647-1-1.html | 基于nginx/apache模块开发的一套应用层防火墙，能有效阻止大部分渗透攻击，且提供高度自由的规则自定义功能 |   |
 
 **开源&免费&低价HIDS**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
