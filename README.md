@@ -12,7 +12,7 @@
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
 | JXWAF锦衣盾 | https://github.com/jx-sec/jxwaf | JXWAF(锦衣盾)是一款开源web应用防火墙。 | 2023.08  |
-|  |  |  |
+| openrasp | https://github.com/baidu/openrasp | OpenRASP是百度安全推出的一款 免费、开源 的应用运行时自我保护产品 | 2023.01 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
