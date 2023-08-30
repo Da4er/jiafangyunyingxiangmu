@@ -1,4 +1,5 @@
-# 甲方安全运营项目[2020年以来]
+# 甲方安全运营项目
+[开源仅录入2020年以来保持更新的项目]
 
 **杀毒免费&试用企业版**<br />
 | 名称 | 链接 |
@@ -20,8 +21,8 @@
 | OpenWAF | https://github.com/titansec/OpenWAF | 基于openresty的Web安全防护系统。 |  2021/03 |
 | 长亭WAF社区版 | https://waf-ce.chaitin.cn/ | 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 |   |
 | httpwaf | https://github.com/httpwaf/httpwaf2.0 | httpwaf是一款永久免费的web应用防火墙，是最好用的waf。 | 2022/01  |
-| 宝塔apache/nginx WAF | https://www.bt.cn/bbs/thread-73847-1-1.html<br />https://www.bt.cn/bbs/thread-13647-1-1.html | 基于nginx/apache模块开发的一套应用层防火墙，能有效阻止大部分渗透攻击，且提供高度自由的规则自定义功能 |   |
-| 护卫神防入侵系统 | https://www.hws.com/soft/frq/ | 新一代服务器防火墙，支持Windows、Linux |   |
+| 宝塔apache/nginx WAF | https://www.bt.cn/bbs/thread-73847-1-1.html<br />https://www.bt.cn/bbs/thread-13647-1-1.html | 基于nginx/apache模块开发的一套应用层防火墙，能有效阻止大部分渗透攻击，且提供高度自由的规则自定义功能。 |   |
+| 护卫神防入侵系统 | https://www.hws.com/soft/frq/ | 新一代服务器防火墙，支持Windows、Linux。 |   |
 | AIHTTPS WEB应用防火墙 | http://www.hihttps.com/hihttps | hihttps是一款完整源码的高性能web应用防火墙 | 2023/03  |
 | Shieldon WAF | https://github.com/terrylinooo/shieldon | Shieldon是一个PHP的Web应用程序防火墙（WAF），具有一个漂亮而有用的控制面板，可以帮助您轻松管理防火墙规则和安全设置。 |  2023/06 |
 |  |  |  |   |
