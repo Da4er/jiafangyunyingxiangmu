@@ -13,7 +13,7 @@
 | --- | --- | --- | --- |
 | JXWAF锦衣盾 | https://github.com/jx-sec/jxwaf | JXWAF(锦衣盾)是一款开源web应用防火墙。 | 2023.08  |
 | openrasp | https://github.com/baidu/openrasp | OpenRASP是百度安全推出的一款 免费、开源 的应用运行时自我保护产品 | 2023.01 |
-|  |  |  |
+| 奇安信网站卫士 | https://wangzhan.qianxin.com/ | 网站卫士是北京奇安信科技有限公司推出的免费网站安全防护产品，是国内用户量最大的网站安全产品之一。 |   |
 |  |  |  |
 |  |  |  |
 
