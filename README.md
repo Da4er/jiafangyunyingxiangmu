@@ -9,8 +9,8 @@
 | 天守安全软件企业版 | https://fanghu.qianxin.com/web/saas/index.html |  |
 
 **开源&免费&低价web应用防火墙**<br />
-| 名称 | 链接 |
-| --- | --- |
+| 名称 | 链接 | 介绍 |
+| --- | --- | --- |
 | JXWAF锦衣盾 | https://github.com/jx-sec/jxwaf | JXWAF(锦衣盾)是一款开源web应用防火墙 |
 |  |  |  |
 |  |  |  |
